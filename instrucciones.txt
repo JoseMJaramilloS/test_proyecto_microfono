@@ -1,0 +1,9 @@
+Clic derecho, Git GUI here
+Scan los archivos
+Agregar un mensaje
+Realizar commit
+Luego ir a GitHUB y crear un repositorio en linea
+Copiar el link del respositorio
+Ir al GUI y darle en remote y luego add...
+Pegar el link y darle un nombre
+Finalmente para subir el repositorio se le da en push
